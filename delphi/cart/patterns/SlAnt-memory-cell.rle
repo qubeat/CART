@@ -1,0 +1,7 @@
+# Reversible memory cell storage and reading
+# Pattern is changed in comparison with WlAnt
+
+x = 30, y = 34, rule = SlAnt
+11.2C11.2C$10.3C11.3C$10.2C13.2C5$.2C24.2C$3C24.3C$2C26.2C8$13.B$10.
+2C.C.2C$9.3C.A.3C$9.2C5.2C$9.2C5.2C2$16.ACB$2C26.2C$3C6.2C5.2C9.3C$.
+2C6.2C5.2C9.2C$9.3C3.3C$10.2C3.2C3$10.2C13.2C$10.3C11.3C$11.2C11.2C!
