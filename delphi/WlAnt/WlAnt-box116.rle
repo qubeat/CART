@@ -1,0 +1,5 @@
+#Small box with "ants", period = 116 (the same for WlAnt,WlAnt-2,WlAnt-3,WlAnt-4)
+
+x = 14, y = 14, rule = WlAnt
+14C$14C$2C10.2C$2C10.2C$2C6.A.B.2C$2C6.C.C.2C$2C6.B.A.2C$2C10.2C$2C
+10.2C$2C10.2C$2C10.2C$2C10.2C$14C$14C!

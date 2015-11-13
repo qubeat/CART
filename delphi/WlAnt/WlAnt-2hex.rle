@@ -1,0 +1,4 @@
+# Collisions and reflections of two "hexagonal ships"
+x = 28, y = 11, rule = WlAnt
+.2C22.2C$.2C22.2C$2C24.2C$2C5.BCA8.ACB5.2C$2C24.2C$2C4.BA.BA6.AB.AB4.
+2C$2C24.2C$2C5.BCA8.ACB5.2C$2C24.2C$.2C22.2C$.2C22.2C!
