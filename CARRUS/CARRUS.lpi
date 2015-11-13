@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasUsesSectionForAllUnits Value="False"/>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="CARRUS"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+      <Icon Value="0"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="1">
+      <Item1>
+        <PackageName Value="LCL"/>
+      </Item1>
+    </RequiredPackages>
+    <Units Count="18">
+      <Unit0>
+        <Filename Value="CARRUS.dpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CARRUS"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="CARules2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CARules2"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="CAPix.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormPix"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="CAPix"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="PixSer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <UnitName Value="PixSer"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="DlgCells.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <UnitName Value="DlgCells"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="AboutCART.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DlgAboutCAR"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="AboutCART"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="ReadMeVar.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <UnitName Value="ReadMeVar"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="CARulTree.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CARulTree"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="GollyFiles.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GollyFiles"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="BuildTree.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BuildTree"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="SortList.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SortList"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="CA2Tree.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CA2Tree"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="UMCell.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UMCell"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="SaveGTree.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SaveGTree"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="USpecl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="USpecl"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="DlgXY.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <UnitName Value="DlgXY"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="CASpecTree.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CASpecTree"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="carrusform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormCA"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="carrusform"/>
+      </Unit17>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+    </SearchPaths>
+    <Parsing>
+      <SyntaxOptions>
+        <SyntaxMode Value="Delphi"/>
+      </SyntaxOptions>
+    </Parsing>
+    <Linking>
+      <Debugging>
+        <StripSymbols Value="True"/>
+        <UseExternalDbgSyms Value="True"/>
+      </Debugging>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <CompilerMessages>
+        <MsgFileName Value=""/>
+      </CompilerMessages>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
