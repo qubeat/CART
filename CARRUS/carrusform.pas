@@ -272,7 +272,9 @@ begin
  mp := mtMAP;
  RuleName := 'Life';
  CellA.SetArea(Xc,Yc);
- //ForceCurrentDirectory := true;
+ {$IFNDEF FPC}
+ ForceCurrentDirectory := true;
+ {$ENDIF}
  ReadMeName := 'CARRUS-readme.txt';
  CheckCapCA;
 end;
