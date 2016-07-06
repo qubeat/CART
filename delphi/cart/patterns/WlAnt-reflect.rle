@@ -1,0 +1,6 @@
+# Collision of "ants" with odd and even distances
+
+x = 35, y = 30, rule = WlAnt
+4.2C23.2C$4.2C23.2C$3.2C25.2C$3.2C.C20.BC.2C$3.2C25.2C$4.2C10.3C10.2C
+$4.2C8.7C8.2C$14.2C3.2C7$.2C29.2C$.2C29.2C$2C31.2C$2C.C27.C.2C$2C31.
+2C$.2C29.2C$.2C29.2C7$14.2C3.2C$14.7C$16.3C!
