@@ -1,7 +1,0 @@
-# WlAnt:   Cross-gun with four ants streams shaping ~ 01110....
-# WlAnt-2: Oscillator period = 4
-# WlAnt-3: Oscillator period = 12
-# WlAnt-4: Cross-gun with four ants streams shaping ~ 1111....
-
-x = 9, y = 9, rule = WlAnt
-.3C.3C$C3.C3.C$C3.C3.C$C3.C3.C$.3C.3C$C3.C3.C$C3.C3.C$C3.C3.C$.3C.3C!
