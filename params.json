@@ -1,6 +1,0 @@
-{
-  "name": "CART",
-  "tagline": "Reversible cellular automata",
-  "body": "# CART\r\n*Reversible cellular automata.*\r\n![Fredkin Gate](https://quantumbot.files.wordpress.com/2013/08/fredkin-ant-motion.gif)\r\n\r\nA post https://ayvlasov.wordpress.com/2012/07/23/qu-ants/\r\nillustrates application of the program.\r\n\r\nDelphi/Lazarus project.\r\n\r\nCART - Delphi version, CARRUS - Lazarus version\r\n\r\n\r\n\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
