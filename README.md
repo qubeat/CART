@@ -1,6 +1,6 @@
 ![Fredkin Gate](https://quantumbot.files.wordpress.com/2013/08/fredkin-ant-motion.gif)
 # CART
-*Reversible cellular automata.*
+*Simulator of reversible and irreversible cellular automata.*
 
 May use MCell *.dll and Golly *.tree and *.rle files.
 Both reversible and irreversible cellular automata simulation.

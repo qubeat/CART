@@ -36,6 +36,7 @@ WlAnt-4 - total number of odd cells in closest positions is either one
 
 ---------------------------------------------------------------------------------------
 WlSnake - total number of odd cells in closest positions is one
+WlSnake-3 - total number of odd cells in closest positions is one or three
 ---------------------------------------------------------------------------------------
 
 
